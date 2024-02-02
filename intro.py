@@ -1,0 +1,6 @@
+print("Welcom to Pyhton Programming")
+print(5+8)
+print("5+8")
+print("My Name is Robert")
+print("5+5+58+8")
+print(9*8*2)
